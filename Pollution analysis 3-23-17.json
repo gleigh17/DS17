@@ -1,6 +1,6 @@
 Close to 100 lines of code. 
 Performance analysis: Instead of writing xxx.describe() for each of my stations in my project. I am creating a for loop to run the length of the number of files. I am still working on the coding. This will cut down on the time and the process will be automatic. 
-On the analysis side, working on the code R code for PCA to give a predict on the next month solution levels. 
+On the analysis side, working on the code R code for PCA to give a predict on the next month polution levels. 
 
 
 
